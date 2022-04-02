@@ -24,7 +24,7 @@ bool validPalindrome(string s) {
             left++;
         }
         else{
-            return isPalindrome (s, left, right-1) or isPalindrome (s, left+1, right);
+            return isPalindrome (s, left, right-1) || isPalindrome (s, left+1, right);
         }
     }
     return true;
