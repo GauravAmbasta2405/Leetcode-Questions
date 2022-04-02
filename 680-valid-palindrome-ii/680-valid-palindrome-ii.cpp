@@ -15,16 +15,16 @@ bool isPalindrome (string s, int left, int right){
 
 
 bool validPalindrome(string s) {
-    int left  = 0;
-    int right = s.size() - 1;
+    int start  = 0;
+    int end = s.size() - 1;
     
-    while(left < right){
-        if(s[left] == s[right]){
-            right--;
-            left++;
+    while(start < end){
+        if(s[start] == s[end]){
+            end--;
+            start++;
         }
         else{
-            return isPalindrome (s, left, right-1) || isPalindrome (s, left+1, right);
+            return isPalindrome (s, start, end-1) || isPalindrome (s, start+1, end);
         }
     }
     return true;
