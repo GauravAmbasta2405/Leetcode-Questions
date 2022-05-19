@@ -17,9 +17,10 @@ public:
         ListNode* tail = dummy;
         while(tail!=NULL && tail->next!=NULL){
             if(tail->next->val == val){
-                ListNode* temp = tail->next;
-                tail->next= temp->next;
-                delete temp;
+                // ListNode* temp = tail->next;
+                // tail->next= temp->next;
+                // delete temp;
+                tail->next = tail->next->next;
             }
             else{
                 tail = tail->next;
