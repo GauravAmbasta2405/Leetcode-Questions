@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
@@ -29,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
