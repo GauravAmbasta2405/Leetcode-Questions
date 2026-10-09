@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
