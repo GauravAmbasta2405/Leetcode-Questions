@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
