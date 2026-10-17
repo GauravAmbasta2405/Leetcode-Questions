@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
