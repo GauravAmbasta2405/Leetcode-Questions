@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Knapsack Problem
 |  |
 | ------- |
