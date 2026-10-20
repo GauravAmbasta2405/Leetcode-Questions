@@ -94,9 +94,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0338-counting-bits) |
