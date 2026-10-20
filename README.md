@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Knapsack Problem
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
