@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -69,12 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
