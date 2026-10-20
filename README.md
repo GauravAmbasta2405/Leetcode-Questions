@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -87,4 +88,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
