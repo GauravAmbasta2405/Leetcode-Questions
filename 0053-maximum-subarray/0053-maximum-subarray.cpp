@@ -4,21 +4,19 @@ public:
 
         int n = nums.size();
 
-        int currentsum = nums[0];
-        int bestsum = nums[0];
+        int currsum = nums[0];
+        int maxsum = nums[0];
 
         for(int i = 1; i < n; i++)
         {
-
-            int v1 = currentsum + nums[i];
+            int v1 = currsum + nums[i];
             int v2 = nums[i];
 
-            currentsum = max(v1, v2);
-            bestsum = max(bestsum, currentsum);
+            currsum = max(v1, v2);
+            maxsum = max(maxsum, currsum);
         }
 
-
-        return bestsum;
+        return maxsum;
         
     }
 };
