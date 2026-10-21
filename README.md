@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Knapsack Problem
 |  |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0190-reverse-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +109,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
