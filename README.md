@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -137,5 +139,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
