@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GauravAmbasta2405/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Knapsack Problem
 |  |
 | ------- |
