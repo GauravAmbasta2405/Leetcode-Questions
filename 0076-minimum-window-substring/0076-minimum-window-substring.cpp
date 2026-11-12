@@ -1,64 +1,85 @@
 class Solution {
-public:
+    private:
 
-    string minWindow(string str, string pat) {
-           
-    int len1 = str.length();
-    int len2 = pat.length();
-        
-     const int no_of_chars = 256;
+    bool sahi(vector<int>& have, vector<int>& need)
+    {
 
-    if (len1 < len2) {
-        return "";
-    }
+        for(int i = 0; i < have.size(); i++)
+        {
 
-    int hash_pat[no_of_chars] = { 0 };
-    int hash_str[no_of_chars] = { 0 };
-
-    
-    for (int i = 0; i < len2; i++)
-        hash_pat[pat[i]]++;
-
-    int start = 0, start_index = -1, min_len = INT_MAX;
-
-   
-    int count = 0; 
-    for (int j = 0; j < len1; j++) {
-      
-        
-        hash_str[str[j]]++;
-
-        
-        if (hash_str[str[j]] <= hash_pat[str[j]])
-            count++;
-
-        if (count == len2) {
-          
-            while (hash_str[str[start]]
-                       > hash_pat[str[start]]
-                   || hash_pat[str[start]] == 0) {
-
-                if (hash_str[str[start]]
-                    > hash_pat[str[start]])
-                    hash_str[str[start]]--;
-                start++;
-            }
-
-            int len_window = j - start + 1;
-            if (min_len > len_window) {
-                min_len = len_window;
-                start_index = start;
-            }
+             if(have[i] < need[i])
+             {
+                return false;
+             }
         }
+
+        return true;
     }
+public:
+    string minWindow(string s, string t) {
+
+        int m = s.size();
+
+        int n = t.size();
+
+        if(m < n)
+        {
+            return "";
+        }
+
+        int low = 0;
+        int high = 0;
+
+        int start;
+        int maxlen = INT_MAX;
+
+        vector<int> have(256, 0);
+        vector<int> need(256, 0);
+
+        for(int i = 0; i < n; i++)
+        {
+            need[t[i]]++;
+
+        }
 
 
-    if (start_index == -1) {
-     
-        return "";
-    }
 
-    
-    return str.substr(start_index, min_len);
+
+        while(high < m)
+        {
+
+            have[s[high]]++;
+
+
+            while(sahi(have, need))
+            {
+
+                int len = high - low + 1;
+
+                if(maxlen > len)
+                {
+
+                    maxlen = len;
+                    start = low;
+                }
+
+
+                have[s[low]]--;
+
+                low++;
+            }
+
+            high++;
+
+
+        }
+
+
+        return maxlen == INT_MAX ? "" : s.substr(start, maxlen);
+
+
+
+
+        
     }
 };
